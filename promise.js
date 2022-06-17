@@ -1,4 +1,4 @@
-console.log('promise')
+console.log('promise is promise')
 
 let promiseObj = new Promise(function (resolve, reject) {
     let x =101;
